@@ -5,7 +5,10 @@
 This project is a simple Word & Character Counter built with HTML, CSS, and JavaScript. It allows users to input text into a textarea and automatically counts and displays the number of words and characters in real time.
 
 ## Live Demo
-  You can view the live demo of the application [here](https://pk1331.github.io/Javascript-Mini-Projects/Word%20Counter/index.html)
+  You can view the live demo of the application [here](https://pk1331.github.io/Javascript-Mini-Projects/Word%20Counter/index.html) <br><br>
+
+  ![word-counter](https://github.com/user-attachments/assets/def7dd73-0faf-4fb4-8bb2-dca5be587e07)
+
 ## Features
 
 - **Real-time Counting**: The word and character counts are updated dynamically as the user types.
